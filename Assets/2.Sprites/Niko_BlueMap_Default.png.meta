@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: f53c4b6478560da47aa348d5c491c075
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd6b635916cee4a9e8e37fc62fd8e1
+      internalID: -1223032615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 204
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23b8a574719714f82ea1f41670368a
+      internalID: -537477559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b41f0d331c111439512e65ee485f1f
+      internalID: -2138611204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 204
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131b8bba0d3a2b469aeb1af5cd374d4
+      internalID: -1593588055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255e9a04dfeb9e46ac5b7552bdd6ab9
+      internalID: -374859495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8185c0b0da5d42bbbd691041dd896
+      internalID: -57917370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9b5293a22a764781560f99f5cfca5
+      internalID: 1654343760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 140
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b584878553480c24aaddc8b803aa0ebf
+      internalID: 2025386968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810722dc2e11324d99309bac091937b
+      internalID: 209110408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 76
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee2231d0b4d37438078eb5c18c44e5
+      internalID: 1217799653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859291c80abdddc4890972e4ecaa1814
+      internalID: -1966450130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7628f5f10ec9b1e4ebb0a3971eabb52f
+      internalID: 1356472396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73bdbc559c4be4c950376b82e0320f
+      internalID: -1293589289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 12
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77513312bfd171f4bacb325581e15ef7
+      internalID: -505377593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bc8fac1d70e944ad20b6545912ee6
+      internalID: -1247703583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niko_BlueMap_Default_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f827748d5ea043bd2856e42704a77
+      internalID: -549365738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Niko_BlueMap_Default_0: -1223032615
+      Niko_BlueMap_Default_1: -537477559
+      Niko_BlueMap_Default_10: 1654343760
+      Niko_BlueMap_Default_11: 2025386968
+      Niko_BlueMap_Default_12: 1702733862
+      Niko_BlueMap_Default_13: 700889377
+      Niko_BlueMap_Default_14: 508466597
+      Niko_BlueMap_Default_15: -1657730749
+      Niko_BlueMap_Default_16: 209110408
+      Niko_BlueMap_Default_17: 1217799653
+      Niko_BlueMap_Default_18: -1966450130
+      Niko_BlueMap_Default_19: 1356472396
+      Niko_BlueMap_Default_2: -2138611204
+      Niko_BlueMap_Default_20: 1218080287
+      Niko_BlueMap_Default_21: -1236239085
+      Niko_BlueMap_Default_22: 1253530816
+      Niko_BlueMap_Default_23: 1474635344
+      Niko_BlueMap_Default_24: -1293589289
+      Niko_BlueMap_Default_25: -505377593
+      Niko_BlueMap_Default_26: -1247703583
+      Niko_BlueMap_Default_27: -549365738
+      Niko_BlueMap_Default_28: 1018704695
+      Niko_BlueMap_Default_29: 1450676145
+      Niko_BlueMap_Default_3: -1593588055
+      Niko_BlueMap_Default_30: -557812899
+      Niko_BlueMap_Default_31: 1100557615
+      Niko_BlueMap_Default_32: -1748551037
+      Niko_BlueMap_Default_4: -2052199595
+      Niko_BlueMap_Default_5: -1632995764
+      Niko_BlueMap_Default_6: -207428755
+      Niko_BlueMap_Default_7: 465116255
+      Niko_BlueMap_Default_8: -374859495
+      Niko_BlueMap_Default_9: -57917370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
